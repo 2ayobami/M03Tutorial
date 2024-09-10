@@ -1,0 +1,23 @@
+{
+  "name": "m03tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2ayobami/M03Tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2ayobami/M03Tutorial/issues"
+  },
+  "homepage": "https://github.com/2ayobami/M03Tutorial#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
